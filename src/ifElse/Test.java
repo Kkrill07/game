@@ -14,7 +14,7 @@ public class Test {
                 2)марс
                 3)земля
                 4)венера
-                                
+                                zalupa     
                 5)обратится к залу  """);
         int choyce = scanner.nextInt();
 
